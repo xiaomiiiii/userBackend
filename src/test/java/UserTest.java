@@ -40,7 +40,7 @@ public class UserTest {
 
     @Test
     public void setGender() {
-        User user1 = new User("liuxiaomi@gmail.com", "xiaomi", "xiaomi", 2020, 1, 1, 0);
+        User user1 = new User("liuxiaomi@gmail.com", "xiaomi", "xiaomi", 2000, 1, 1, 0);
         int gender1 = user1.getGender();
         Assert.assertEquals(-1, gender1);
 
