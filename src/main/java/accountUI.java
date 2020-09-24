@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class accountUI {
-    public static void userInput() {
+    public static User userInput() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter you email address");
         String email = sc.nextLine();
@@ -20,5 +20,6 @@ public class accountUI {
 
         User user = new User(email, name, password, year, month, day, gender);
 
+        return user;
     }
 }
