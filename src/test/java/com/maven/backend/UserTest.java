@@ -1,7 +1,8 @@
+package com.maven.backend;
+
+import com.maven.backend.User;
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class UserTest {
 

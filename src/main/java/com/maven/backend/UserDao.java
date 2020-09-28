@@ -1,3 +1,7 @@
+package com.maven.backend;
+
+import com.maven.backend.User;
+
 import java.util.ArrayList;
 
 public class UserDao {
