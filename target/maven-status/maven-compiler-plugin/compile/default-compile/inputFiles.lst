@@ -1,4 +1,6 @@
-/Users/mac/Desktop/backend/src/main/java/com/maven/backend/User.java
-/Users/mac/Desktop/backend/src/main/java/com/maven/backend/Main.java
+/Users/mac/Desktop/backend/src/main/java/com/maven/backend/Dao/UserDao.java
+/Users/mac/Desktop/backend/src/main/java/com/maven/backend/Controller/UserController.java
+/Users/mac/Desktop/backend/src/main/java/com/maven/backend/MyApplication.java
+/Users/mac/Desktop/backend/src/main/java/com/maven/backend/Entity/User.java
 /Users/mac/Desktop/backend/src/main/java/com/maven/backend/accountUI.java
-/Users/mac/Desktop/backend/src/main/java/com/maven/backend/UserDao.java
+/Users/mac/Desktop/backend/src/main/java/com/maven/backend/Repository/UserRepo.java

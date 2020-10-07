@@ -1,5 +1,7 @@
 package com.maven.backend;
 
+import com.maven.backend.Entity.User;
+
 import java.util.Scanner;
 
 public class accountUI {

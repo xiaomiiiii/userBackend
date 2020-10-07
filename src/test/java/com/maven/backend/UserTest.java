@@ -1,6 +1,6 @@
 package com.maven.backend;
 
-import com.maven.backend.User;
+import com.maven.backend.Entity.User;
 import org.junit.Assert;
 import org.junit.Test;
 
